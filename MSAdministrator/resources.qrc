@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/about.png</file>
+        <file>resources/icons/exit.png</file>
+        <file>resources/icons/help.png</file>
+        <file>resources/styles/leftwidget.qss</file>
+        <file>resources/icons/user_add.png</file>
+        <file>resources/icons/user_edit.png</file>
+        <file>resources/icons/user_remove.png</file>
+        <file>resources/icons/user_refresh.png</file>
+        <file>resources/icons/users.png</file>
+        <file>resources/icons/save.png</file>
+    </qresource>
+</RCC>

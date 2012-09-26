@@ -1,0 +1,15 @@
+INPUT(
+./build\win32\gcc\temp\objs\TcpRequest.o
+./build\win32\gcc\temp\objs\TcpResponse.o
+./build\win32\gcc\temp\objs\TcpListener.o
+./build\win32\gcc\temp\objs\TcpRequestHandler.o
+./build\win32\gcc\temp\objs\TcpRequestSender.o
+./build\win32\gcc\temp\objs\TcpRequestHandlerTask.o
+./build\win32\gcc\temp\objs\SleepSimulator.o
+./build\win32\gcc\temp\objs\Settings.o
+./build\win32\gcc\temp\objs\Exception.o
+./build\win32\gcc\temp\objs\moc_TcpListener.o
+./build\win32\gcc\temp\objs\moc_TcpRequestHandler.o
+./build\win32\gcc\temp\objs\moc_TcpRequestSender.o
+./build\win32\gcc\temp\objs\moc_TcpRequestHandlerTask.o
+);

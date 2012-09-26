@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/toolbar/volume-slider-inside.png</file>
+        <file>resources/toolbar/volume-slider-outside.png</file>
+    </qresource>
+</RCC>

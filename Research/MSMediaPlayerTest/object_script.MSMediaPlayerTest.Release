@@ -1,0 +1,15 @@
+INPUT(
+./build/win32/gcc/temp/objs/main.o
+./build/win32/gcc/temp/objs/TestRecorder.o
+./build/win32/gcc/temp/objs/TestPlayer.o
+./build/win32/gcc/temp/objs/TestMetaManager.o
+./build/win32/gcc/temp/objs/TestMain.o
+./build/win32/gcc/temp/objs/TestDualPlayer.o
+./build/win32/gcc/temp/objs/TestDualInstance.o
+./build/win32/gcc/temp/objs/moc_TestRecorder.o
+./build/win32/gcc/temp/objs/moc_TestPlayer.o
+./build/win32/gcc/temp/objs/moc_TestMetaManager.o
+./build/win32/gcc/temp/objs/moc_TestMain.o
+./build/win32/gcc/temp/objs/moc_TestDualPlayer.o
+./build/win32/gcc/temp/objs/moc_TestDualInstance.o
+);
